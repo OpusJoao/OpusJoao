@@ -1,5 +1,5 @@
 # 💫 About Me:
-Brazilian guy,<br>College of Computer Engineering,<br>Mid Back End Developer | SOLID, Typescript, node, Nestjs, React, PHP <br><br>I'm currently working on Fasters as Nodejs back end developer!<br>I'm looking to collaborate on international companies!<br>i'm looking for help with how to make my profile better and better<br>I'm currently learning about Software Engeneering, microservices, aws and Back End stuff!<br><br>Fun fact: i code since my 16 years old
+Brazilian guy,<br>College of Computer Engineering,<br>Senior Back End Developer | SOLID, C#, Typescript, node, Nestjs, React, PHP <br><br>I'm currently working on Fasters as Nodejs back end developer!<br>I'm looking to collaborate on international companies!<br>i'm looking for help with how to make my profile better and better<br>I'm currently learning about Software Engeneering, microservices, aws and Back End stuff!<br><br>Fun fact: i code since my 16 years old
 
 
 ## 🌐 Socials:
